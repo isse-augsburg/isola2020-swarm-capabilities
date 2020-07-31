@@ -1,3 +1,8 @@
 # isola2020-swarm-capabilities
-Maple-HTN: Farmwork at https://youtu.be/mb9dmzNLi6M
-Maple-HTN: Simple Firefighter Plan https://youtu.be/-KlbmMwm0bY
+
+Protelis Videos
+Protelis Count Neighbors Test: https://youtu.be/JqPyfLgzzY8
+
+Protelis Measure Temperature Test: https://youtu.be/IUZt5rqgBP8
+
+Portelis Termination Test: https://youtu.be/fEofIuMbOZo
