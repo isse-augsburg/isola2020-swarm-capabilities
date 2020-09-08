@@ -12,4 +12,3 @@ Portelis Termination Test: https://youtu.be/fEofIuMbOZo
 
 Netlogo Simulation Implementation Material
 Video of Differnt Parameters for a Swarm Capability: https://youtu.be/l4YWMrBSHiM
-Netlogog Simulation Code: https://megastore.uni-augsburg.de/get/v1eyOhLII7/
